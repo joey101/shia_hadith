@@ -1,4 +1,5 @@
 ---
+Title: Islamic Hadiths
 layout: default
 ---
 
